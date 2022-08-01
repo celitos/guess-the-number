@@ -1,4 +1,5 @@
-#Guess the number?"
+#V.100
+#"Guess the number?"
 import random
 
 guessTaken = 0
